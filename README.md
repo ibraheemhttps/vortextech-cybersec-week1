@@ -7,7 +7,7 @@ This repository contains my Week 1 submission for the Vortex Tech Cyber Security
 What's inside
 
 
-OWASP_Top10_Week1_Research.md — The main deliverable. For each of five vulnerabilities (Broken Access Control, Security Misconfiguration, Software Supply Chain Failures, Cryptographic Failures, and Injection), it covers:
+vortextech-cybersec-week 1.pdf The main deliverable. For each of five vulnerabilities (Broken Access Control, Security Misconfiguration, Software Supply Chain Failures, Cryptographic Failures, and Injection), it covers:
 
 A plain-language explanation of the vulnerability
 How an attacker could exploit it
@@ -21,7 +21,7 @@ A closing personal reflection
 
 How to view it
 
-No setup or code execution required — this was a research and documentation task, not a coding one. Just open OWASP_Top10_Week1_Research.md directly on GitHub, or in any Markdown viewer / text editor.
+No setup or code execution required — this was a research and documentation task, not a coding one. Just open vortextech-cybersec-week 1.pdf directly on GitHub, or in any Markdown viewer / text editor.
 
 Reference
 
